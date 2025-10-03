@@ -7,13 +7,13 @@ Here, I will document all Ive learned, what Im working on right now, and my futu
 
 ## My first 7 months of coding (march - october .2025)
 
-**ToDoList** 
+**ToDoList:** 
 Started as a simple console project to learn the basics of C#. After a month, it was a WPF program with SQLite integration, CRUD operations, and settings.
 
 *Note:* The code is very messy. Not recommended for reuse.
 
 
-**SQLMonitor** 
+**SQLMonitor:** 
 A program to live manage SQLite databases.  
 Supports CRUD, undo, and additional operations for the entire database. 
 Features the first fully self-made GUI, auto-update/live visualization, table structure analysis, and multiple options for filtering information and managing functions.
@@ -21,27 +21,27 @@ Features the first fully self-made GUI, auto-update/live visualization, table st
 *Note:* The code is very messy. Not recommended for reuse.
   
 
-**SnowpeakPuzzle-SolveAlgorithm** 
+**SnowpeakPuzzle-SolveAlgorithm:** 
 An algorithm to solve the Snowpeak Ruins ice puzzle from Zelda: Twilight Princess. This was my first introduction to algorithms.  
 It has one simple rule: no backtracking, and finds a solution that uses fewer than 20 moves.
 
 *Note:* The code is EXTREMELY messy, had alot of stack-overflow problems => put everything in one loop. Not recommended for reuse. 
 
 
-**AlgorithmVisualizer**
+**AlgorithmVisualizer:**
 Started as a console program with a simple maze generation algorithm. Later ported to WPF, including MazeGenerator (imperfect/perfect), A-Star, BFS, DeadEndFilling, Right/Left-HandRule, and RandomMove.  
 All of this with live visualization (async), adjustable algorithm speed, and maze/visualizer size settings.
 
 *Note:* The code is not perfect, but mostly readable and understandable. This was my first deep dive into good coding practices.
 
 
-**10 leetcode problems (C++)** 
+**10 leetcode problems (C++):** 
 My first experience with LeetCode, and also my first time programming in C++. 
 After 6.5 months of C#, I decided to switch to C++ because I always wanted to do low-level programming and had learned all the programming basics necessary for the switch.  
 And if not now, when?
 
 
-**TicTacToe** 
+**TicTacToe:**
 This was my first non-LeetCode C++ project. I created a simple, typical beginner TicTacToe game, but the algorithm plays near perfectly.  
 If the CPU starts, you cannot win.
 
