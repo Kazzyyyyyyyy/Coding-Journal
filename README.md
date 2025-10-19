@@ -54,7 +54,13 @@ I try to double or even triple my current knowledge about algorithms, memory man
 Overall, my goal is to become as skilled as possible in my favorite part of coding.
 
 ### Currently working on 
+ - remaking algorithms (MazeGen, A-Star, BFS), I alr made in c#, in c++ from scratch (without STL) and focus on performance
 
- - understanding C++ basics (linked lists, stacks, queues, pointer) 
- - leetcode
+### Done
+ 6. - 12.10.25: 
+		- pointers 
+		- linked lists
+		- 4 leetcode problems (linked list)
  
+ 13. - 19.10.25: 
+		- STL containers from scratch (Stack, Vector, PriorityQueue, HashTable) 
