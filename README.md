@@ -56,11 +56,11 @@ Overall, my goal is to become as skilled as possible in my favorite part of codi
 ### Currently working on 
  - remaking algorithms (MazeGen, A-Star, BFS), I alr made in c#, in c++ from scratch (without STL) and focus on performance
 
-### Done
- 6. - 12.10.25: 
+### Weekly updates
+ 6. to 12.10.25: 
 		- pointers 
 		- linked lists
 		- 4 leetcode problems (linked list)
  
- 13. - 19.10.25: 
+ 13. to 19.10.25: 
 		- STL containers from scratch (Stack, Vector, PriorityQueue, HashTable) 
