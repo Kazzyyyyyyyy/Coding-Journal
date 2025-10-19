@@ -57,12 +57,12 @@ Overall, my goal is to become as skilled as possible in my favorite part of codi
  - remaking algorithms (MazeGen, A-Star, BFS), I alr made in c#, in c++ from scratch (without STL) and focus on performance
 
 ### Weekly updates
-**Week 1 (6 - 12.10.2025):**
+**Week 1 (6. - 12.10.2025):**
  - pointers
  - linked lists
  - 4 LeetCode problems (linked list)
 
-**Week 2 (13 - 19.10.2025):**
+**Week 2 (13. - 19.10.2025):**
  - STL containers from scratch (Stack, Vector, PriorityQueue, HashTable)
  - templates 
  - operator[] 
