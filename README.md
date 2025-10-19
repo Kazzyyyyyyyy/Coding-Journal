@@ -62,9 +62,8 @@ Overall, my goal is to become as skilled as possible in my favorite part of codi
  - linked lists
  - 4 LeetCode problems (linked list)
 
-
 **Week 2 (13 - 19.10.2025):**
  - STL containers from scratch (Stack, Vector, PriorityQueue, HashTable)
- - templates (template<typename T>) 
+ - templates 
  - operator[] 
  
