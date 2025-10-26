@@ -66,4 +66,9 @@ Overall, my goal is to become as skilled as possible in my favorite part of codi
  - STL containers from scratch (Stack, Vector, PriorityQueue, HashTable)
  - templates 
  - operator[] 
- 
+
+**Week 3 (20. - 26.10.2025):**
+ - Finished the STL container project (Queue, HashSet, testing, fixing bugs, cleaning up the code)
+ - started a new project: adding ultra performance C++ algorithms to my C# MazeSolverVisualizer (still dont got a good name for that project :/ ) 
+ - understood and implemented MemoryMappedFiles for C#/C++ communication (C# struct/char[] => C++) 
+ - made an ultra optimized BFS algorithm (0.6ms for a 200x200 imperfect maze) and learned a lot of optimization methods through that
