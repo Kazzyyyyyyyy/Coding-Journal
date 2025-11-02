@@ -72,3 +72,11 @@ Overall, my goal is to become as skilled as possible in my favorite part of codi
  - started a new project: adding ultra performance C++ algorithms to my C# MazeSolverVisualizer (still dont got a good name for that project :/ ) 
  - understood and implemented MemoryMappedFiles for C#/C++ communication (C# struct/char[] => C++) 
  - made an ultra optimized BFS algorithm (0.6ms for a 200x200 imperfect maze) and learned a lot of optimization methods through that
+
+**Week 4 (27.10 - 2.11.2025):**
+ - finished the AlgorithmVisualizer interop project
+ - optimized a C++ BFS to the last bit (20-35x faster than C# depending on mazeSize) 
+ - understood quite some bare memory principles (working with bytes, offset calculation, differences in datatypes between C#/C++, direct data access via pointers vs copying data)
+ - learned how to use MMF´s and what not to do for language interop
+ - refreshed my C#/WPF knowledge
+ 
