@@ -53,8 +53,15 @@ My plan from here on is to dive deeper into low-level programming so that I can 
 I try to double or even triple my current knowledge about algorithms, memory management, and stuff like that over the next 8 months.  
 Overall, my goal is to become as skilled as possible in my favorite part of coding.
 
-### Currently working on 
- - remaking algorithms (MazeGen, A-Star, BFS), I alr made in c#, in c++ from scratch (without STL) and focus on performance
+### Currently working on
+ - leetcode (medium/hard) 
+ - the overengineering / overthinking problem
+ - how to comment code
+ 
+### Weakpoints
+ - overengineering / overthinking
+ - too detailed or just actual bad code comments
+ - imposter syndrome: often over doubting solutions/code quality and also makes me feel bad in the evenings... :(
 
 ### Weekly updates
 **Week 1 (6. - 12.10.2025):**
@@ -79,4 +86,4 @@ Overall, my goal is to become as skilled as possible in my favorite part of codi
  - understood quite some bare memory principles (working with bytes, offset calculation, differences in datatypes between C#/C++, direct data access via pointers vs copying data)
  - learned how to use MMF´s and what not to do for language interop
  - refreshed my C#/WPF knowledge
- 
+
