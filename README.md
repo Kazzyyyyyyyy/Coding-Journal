@@ -54,9 +54,8 @@ I try to double or even triple my current knowledge about algorithms, memory man
 Overall, my goal is to become as skilled as possible in my favorite part of coding.
 
 ### Currently working on
- - leetcode (medium/hard) 
- - the overengineering / overthinking problem
- - how to comment code
+ - memory allocator
+ - writing good code comments
  
 ### Weakpoints
  - overengineering / overthinking
@@ -87,3 +86,10 @@ Overall, my goal is to become as skilled as possible in my favorite part of codi
  - learned how to use MMF´s and what not to do for language interop
  - refreshed my C#/WPF knowledge
 
+**Week 5 (3. - 9.11.2025):**
+ - started a new project (memory allocator) 
+ - learned a lot about how and where to gather information manually (till now I always used LLM´s to get my information) 
+ - learned to work with mmap 
+ - learned how an alloctor works 
+ - made multiple prototypes and one actually functional/usable (even though very simple) allocator: allocate, free, reuse blocks after free
+ 
