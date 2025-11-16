@@ -93,3 +93,8 @@ Overall, my goal is to become as skilled as possible in my favorite part of codi
  - learned how an alloctor works 
  - made multiple prototypes and one actually functional/usable (even though very simple) allocator: allocate, free, reuse blocks after free
  
+**Week 6 (10. - 16.11.2025):**
+ - finished memory allocator/s (PRECISE/FAST mode)
+ - tested both
+ - fixed A LOT of bugs
+ - learned new clean code principles
