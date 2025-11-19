@@ -54,8 +54,7 @@ I try to double or even triple my current knowledge about algorithms, memory man
 Overall, my goal is to become as skilled as possible in my favorite part of coding.
 
 ### Currently working on
- - memory allocator
- - writing good code comments
+ - ~
  
 ### Weakpoints
  - overengineering / overthinking
