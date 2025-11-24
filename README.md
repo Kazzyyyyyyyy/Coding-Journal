@@ -54,7 +54,7 @@ I try to double or even triple my current knowledge about algorithms, memory man
 Overall, my goal is to become as skilled as possible in my favorite part of coding.
 
 ### Currently working on
- - ~
+ - some multithreading project (idk what excatly yet)
  
 ### Weakpoints
  - overengineering / overthinking
@@ -97,3 +97,9 @@ Overall, my goal is to become as skilled as possible in my favorite part of codi
  - tested both
  - fixed A LOT of bugs
  - learned new clean code principles
+ 
+**Week 7 (17. - 23.11.2025):**
+ - learned about atomic and threads/multithreading
+ - made a LockFreeQueue with atomic
+ 
+ 
