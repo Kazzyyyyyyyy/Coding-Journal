@@ -108,3 +108,7 @@ Overall, my goal is to become as skilled as possible in my favorite part of codi
  - tested both queues
  - cleaned code 
  - finished project 
+ 
+**Week 9 (1. - 7.12.2025):**
+ - decided on a new project (Open source) 
+ - learned a bit how to read into a project 
