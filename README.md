@@ -112,3 +112,10 @@ Overall, my goal is to become as skilled as possible in my favorite part of codi
 **Week 9 (1. - 7.12.2025):**
  - decided on a new project (Open source) 
  - learned a bit how to read into a project 
+
+**Week 10 (8. - 14.12.2025):**
+ - found out my LFQ was trash
+ - rewrote the whole queue, this time correct
+ - learned (more) about atomic, memory ordering and the ABA problem so that Im confident now I can explain the entire queue in detail
+ - reused and changed tests to fit the new queue
+ 
