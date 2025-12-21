@@ -47,20 +47,6 @@ If the CPU starts, you cannot win.
 
 
 
-## Ongoing journey (october 2025 – today)
-
-My plan from here on is to dive deeper into low-level programming so that I can become an employed (normal job/freelancer group...) junior dev within the next year.  
-I try to double or even triple my current knowledge about algorithms, memory management, and stuff like that over the next 8 months.  
-Overall, my goal is to become as skilled as possible in my favorite part of coding.
-
-### Currently working on
- - idk rn
- 
-### Weakpoints
- - overengineering / overthinking
- - too detailed or just actual bad code comments
- - imposter syndrome: often over doubting solutions/code quality and also makes me feel bad in the evenings... :(
-
 ### Weekly updates
 **Week 1 (6. - 12.10.2025):**
  - pointers
@@ -119,3 +105,7 @@ Overall, my goal is to become as skilled as possible in my favorite part of codi
  - learned (more) about atomic, memory ordering and the ABA problem so that Im confident now I can explain the entire queue in detail
  - reused and changed tests to fit the new queue
  
+**Week 11 (15. - 21.12.2025):**
+ - started my first OpenSource project (https://github.com/SkyblockerMod/Skyblocker)
+ - working on my first issue 
+ - first Java experience
