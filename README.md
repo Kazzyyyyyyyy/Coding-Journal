@@ -109,3 +109,8 @@ If the CPU starts, you cannot win.
  - started my first OpenSource project (https://github.com/SkyblockerMod/Skyblocker)
  - working on my first issue 
  - first Java experience
+ 
+**Week 12 (22. - 28.12.2025):**
+ - successfully solved 1 issue and added 1 feature in my first OpenSource project
+ - got to know the git system more 
+ - working on foreign code and with a foreign API
