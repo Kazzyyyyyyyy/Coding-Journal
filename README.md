@@ -114,3 +114,10 @@ If the CPU starts, you cannot win.
  - successfully solved 1 issue and added 1 feature in my first OpenSource project
  - got to know the git system more 
  - working on foreign code and with a foreign API
+ 
+**Week 13 (29.12.25 - 4.1.2026):**
+ - first phyton experience 
+ - made an automated farming system for "The Farmer was Replaced"
+ - a little more work on Skyblocker (change requests, talking with other contributers)
+ 
+
