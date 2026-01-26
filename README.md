@@ -120,4 +120,7 @@ If the CPU starts, you cannot win.
  - made an automated farming system for "The Farmer was Replaced"
  - a little more work on Skyblocker (change requests, talking with other contributers)
  
-
+**Week 16 (19. - 25.1.2026):**
+ - more work on skyblocker
+ - first issue in Notepad++
+ 
