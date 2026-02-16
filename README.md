@@ -124,3 +124,11 @@ If the CPU starts, you cannot win.
  - more work on skyblocker
  - first issue in Notepad++
  
+**Week 17 (26.1 - 1.2.2026):**
+ - worked more on [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus/pull/17494)
+ 
+**Week 18/19:** 
+ - took a break from productivity 
+
+**Week 20 (16.2 - 22.2.2026):** 
+ - found [projecteuler](https://projecteuler.net/archives) and I really like it 
