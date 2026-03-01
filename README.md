@@ -132,3 +132,10 @@ If the CPU starts, you cannot win.
 
 **Week 20 (16.2 - 22.2.2026):** 
  - found [projecteuler](https://projecteuler.net/archives) and I really like it 
+ 
+**Week 21 (23.2 - 1.3.2026):** 
+ - more [projecteuler](https://projecteuler.net/archives) and math in general
+ 
+ 
+ 
+ 
