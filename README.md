@@ -137,5 +137,6 @@ If the CPU starts, you cannot win.
  - more [projecteuler](https://projecteuler.net/archives) and math in general
  
  
- 
+**Week 22 (2.3 - 8.3.2026):**
+ - school math (will put all that in [Math](https://github.com/Kazzyyyyyyyy/Math) soon)
  
