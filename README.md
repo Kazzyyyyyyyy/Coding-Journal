@@ -144,5 +144,5 @@ If the CPU starts, you cannot win.
  - started refactoring/updating my [Memory Allocator](https://github.com/Kazzyyyyyyyy/MemoryAllocator)
  
 **Week 24 (16.3 - 22.3.2026):**
- - more math (exponential/linear functions, geometrie in those, combining functions)
+ - more math; exponential/linear functions, geometrie in those, combining functions
  - much work on my [Memory Allocator](https://github.com/Kazzyyyyyyyy/MemoryAllocator); realloc, templates (for the modes), security checks, started working on tests
