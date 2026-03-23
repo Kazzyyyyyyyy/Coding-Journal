@@ -139,8 +139,10 @@ If the CPU starts, you cannot win.
 **Week 22 (2.3 - 8.3.2026):**
  - school math
  
-**Week 23 (9.3 - 16.3.2026):**
+**Week 23 (9.3 - 15.3.2026):**
  - mostly math 
  - started refactoring/updating my [Memory Allocator](https://github.com/Kazzyyyyyyyy/MemoryAllocator)
  
- 
+**Week 24 (16.3 - 22.3.2026):**
+ - more math (exponential/linear functions, geometrie in those, combining functions)
+ - much work on my [Memory Allocator](https://github.com/Kazzyyyyyyyy/MemoryAllocator); realloc, templates (for the modes), security checks, started working on tests
