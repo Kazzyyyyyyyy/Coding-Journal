@@ -150,3 +150,6 @@ If the CPU starts, you cannot win.
 **Week 25 (23.3 - 29.3.2026):**
  - math (got a graphics tablet now and do everything on my pc so I could theoretically put it on git) 
  - [Memory Allocator](https://github.com/Kazzyyyyyyyy/MemoryAllocator); more Tests, better Tests, more safety, cleaned-up code a bit
+ 
+ **Week 26 (30.4 - 5.4.2026):**
+ - very low energy easter week, not much that happened
