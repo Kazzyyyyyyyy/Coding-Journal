@@ -153,3 +153,12 @@ If the CPU starts, you cannot win.
  
  **Week 26 (30.4 - 5.4.2026):**
  - very low energy easter week, not much that happened
+ 
+**Week 27 (6.4 - 12.4.2026):**
+ - very unproductive week, got nothing to tell ya 
+ 
+**Week 28 (13.4 - 19.4.2026):**
+ - math but still less than usual 
+ 
+ 
+ 
