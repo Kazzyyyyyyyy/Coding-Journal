@@ -160,5 +160,7 @@ If the CPU starts, you cannot win.
 **Week 28 (13.4 - 19.4.2026):**
  - math but still less than usual 
  
- 
+**Week 29 (20.4 - 26.4.2026):**
+ - more tests, major architecture changes and more on the [Memory Allocator](https://github.com/Kazzyyyyyyyy/MemoryAllocator)
+ - good amnt of math (currently doing the absolute basics) 
  
