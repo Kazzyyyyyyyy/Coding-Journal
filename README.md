@@ -167,4 +167,9 @@ If the CPU starts, you cannot win.
 **Week 30 (27.4 - 3.5.2026):**
  - major work on the [Memory Allocator](https://github.com/Kazzyyyyyyyy/MemoryAllocator)
  - a lil math (still nothing to show you bc havent put any of it on git) 
+
+**Week 31 (4.4 - 10.5.2026):**
+ - [Memory Allocator](https://github.com/Kazzyyyyyyyy/MemoryAllocator); 16b memory alignment, alignment and split tests, bitwise ops for size_control, cleaned up code
  
+**Week 32 (11.4 - 17.5.2026):**
+ - [Memory Allocator](https://github.com/Kazzyyyyyyyy/MemoryAllocator); removed Block->offset - added size_t \*prevSize and bool free (+ the needed architecture to make this work), coalescing (left and right), double free check
