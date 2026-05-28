@@ -173,3 +173,7 @@ If the CPU starts, you cannot win.
  
 **Week 32 (11.4 - 17.5.2026):**
  - [Memory Allocator](https://github.com/Kazzyyyyyyyy/MemoryAllocator); removed Block->offset - added size_t \*prevSize and bool free (+ the needed architecture to make this work), coalescing (left and right), double free check
+
+**Week 33 (18.4 - 24.5.2026):**
+ - lil work on the Mem allocator 
+ - lots of [ombplus](https://www.ombplus.de/ombplus/public/index.html)
